@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey, I'm Anshuman 👋
+
+I'm a Frontend Web Developer from India, working with Angular and TypeScript
+
+- 🌱 Looking to learn React and Java Spring Boot
+- 👀 I'm interested in developing websites, web apps and mobile apps
+- 📫 How to reach me: anshuman150698@gmail.com OR [LinkedIn](https://www.linkedin.com/in/anshuman-srivastava-09b3311ab/)
+ 
 
 <!--
 **anshumansrivastava98/anshumansrivastava98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
