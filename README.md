@@ -1,9 +1,9 @@
 ### Hey, I'm Anshuman 👋
 
-I'm a Frontend Web Developer from India, working with Angular and TypeScript
+I'm a Frontend Web Developer from India, working with  HTML/CSS, JavaScript, Angular, and TypeScript
 
 - 🌱 Looking to learn React and Java Spring Boot
-- 👀 I'm interested in developing websites, web apps and mobile apps
+- 👀 I'm interested in developing websites, web apps, and mobile apps
 - 📫 How to reach me: anshuman150698@gmail.com OR [LinkedIn](https://www.linkedin.com/in/anshuman-srivastava-09b3311ab/)
  
 
